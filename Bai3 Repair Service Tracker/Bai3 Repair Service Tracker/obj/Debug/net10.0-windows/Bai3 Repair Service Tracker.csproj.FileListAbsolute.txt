@@ -1,0 +1,15 @@
+D:\LT .Net\Bai3 Repair Service Tracker\Bai3 Repair Service Tracker\bin\Debug\net10.0-windows\Bai3 Repair Service Tracker.exe
+D:\LT .Net\Bai3 Repair Service Tracker\Bai3 Repair Service Tracker\bin\Debug\net10.0-windows\Bai3 Repair Service Tracker.deps.json
+D:\LT .Net\Bai3 Repair Service Tracker\Bai3 Repair Service Tracker\bin\Debug\net10.0-windows\Bai3 Repair Service Tracker.runtimeconfig.json
+D:\LT .Net\Bai3 Repair Service Tracker\Bai3 Repair Service Tracker\bin\Debug\net10.0-windows\Bai3 Repair Service Tracker.dll
+D:\LT .Net\Bai3 Repair Service Tracker\Bai3 Repair Service Tracker\bin\Debug\net10.0-windows\Bai3 Repair Service Tracker.pdb
+D:\LT .Net\Bai3 Repair Service Tracker\Bai3 Repair Service Tracker\obj\Debug\net10.0-windows\Bai3 Repair Service Tracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT .Net\Bai3 Repair Service Tracker\Bai3 Repair Service Tracker\obj\Debug\net10.0-windows\Bai3 Repair Service Tracker.AssemblyInfoInputs.cache
+D:\LT .Net\Bai3 Repair Service Tracker\Bai3 Repair Service Tracker\obj\Debug\net10.0-windows\Bai3 Repair Service Tracker.AssemblyInfo.cs
+D:\LT .Net\Bai3 Repair Service Tracker\Bai3 Repair Service Tracker\obj\Debug\net10.0-windows\Bai3 Repair Service Tracker.csproj.CoreCompileInputs.cache
+D:\LT .Net\Bai3 Repair Service Tracker\Bai3 Repair Service Tracker\obj\Debug\net10.0-windows\Bai3 Repair Service Tracker.dll
+D:\LT .Net\Bai3 Repair Service Tracker\Bai3 Repair Service Tracker\obj\Debug\net10.0-windows\refint\Bai3 Repair Service Tracker.dll
+D:\LT .Net\Bai3 Repair Service Tracker\Bai3 Repair Service Tracker\obj\Debug\net10.0-windows\Bai3 Repair Service Tracker.pdb
+D:\LT .Net\Bai3 Repair Service Tracker\Bai3 Repair Service Tracker\obj\Debug\net10.0-windows\Bai3 Repair Service Tracker.genruntimeconfig.cache
+D:\LT .Net\Bai3 Repair Service Tracker\Bai3 Repair Service Tracker\obj\Debug\net10.0-windows\ref\Bai3 Repair Service Tracker.dll
+D:\LT .Net\Bai3 Repair Service Tracker\Bai3 Repair Service Tracker\obj\Debug\net10.0-windows\Bai3 Rep.8E18A3E7.Up2Date
