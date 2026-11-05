@@ -1,0 +1,17 @@
+D:\LT .Net\Bai2_Lab_Equipment_Checkout\Bai2_Lab_Equipment_Checkout\bin\Debug\net10.0-windows\Bai2_Lab_Equipment_Checkout.exe
+D:\LT .Net\Bai2_Lab_Equipment_Checkout\Bai2_Lab_Equipment_Checkout\bin\Debug\net10.0-windows\Bai2_Lab_Equipment_Checkout.deps.json
+D:\LT .Net\Bai2_Lab_Equipment_Checkout\Bai2_Lab_Equipment_Checkout\bin\Debug\net10.0-windows\Bai2_Lab_Equipment_Checkout.runtimeconfig.json
+D:\LT .Net\Bai2_Lab_Equipment_Checkout\Bai2_Lab_Equipment_Checkout\bin\Debug\net10.0-windows\Bai2_Lab_Equipment_Checkout.dll
+D:\LT .Net\Bai2_Lab_Equipment_Checkout\Bai2_Lab_Equipment_Checkout\bin\Debug\net10.0-windows\Bai2_Lab_Equipment_Checkout.pdb
+D:\LT .Net\Bai2_Lab_Equipment_Checkout\Bai2_Lab_Equipment_Checkout\obj\Debug\net10.0-windows\Bai2_Lab_Equipment_Checkout.EquipmentBorrow.resources
+D:\LT .Net\Bai2_Lab_Equipment_Checkout\Bai2_Lab_Equipment_Checkout\obj\Debug\net10.0-windows\Bai2_Lab_Equipment_Checkout.csproj.GenerateResource.cache
+D:\LT .Net\Bai2_Lab_Equipment_Checkout\Bai2_Lab_Equipment_Checkout\obj\Debug\net10.0-windows\Bai2_Lab_Equipment_Checkout.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT .Net\Bai2_Lab_Equipment_Checkout\Bai2_Lab_Equipment_Checkout\obj\Debug\net10.0-windows\Bai2_Lab_Equipment_Checkout.AssemblyInfoInputs.cache
+D:\LT .Net\Bai2_Lab_Equipment_Checkout\Bai2_Lab_Equipment_Checkout\obj\Debug\net10.0-windows\Bai2_Lab_Equipment_Checkout.AssemblyInfo.cs
+D:\LT .Net\Bai2_Lab_Equipment_Checkout\Bai2_Lab_Equipment_Checkout\obj\Debug\net10.0-windows\Bai2_Lab_Equipment_Checkout.csproj.CoreCompileInputs.cache
+D:\LT .Net\Bai2_Lab_Equipment_Checkout\Bai2_Lab_Equipment_Checkout\obj\Debug\net10.0-windows\Bai2_Lab_Equipment_Checkout.dll
+D:\LT .Net\Bai2_Lab_Equipment_Checkout\Bai2_Lab_Equipment_Checkout\obj\Debug\net10.0-windows\refint\Bai2_Lab_Equipment_Checkout.dll
+D:\LT .Net\Bai2_Lab_Equipment_Checkout\Bai2_Lab_Equipment_Checkout\obj\Debug\net10.0-windows\Bai2_Lab_Equipment_Checkout.pdb
+D:\LT .Net\Bai2_Lab_Equipment_Checkout\Bai2_Lab_Equipment_Checkout\obj\Debug\net10.0-windows\Bai2_Lab_Equipment_Checkout.genruntimeconfig.cache
+D:\LT .Net\Bai2_Lab_Equipment_Checkout\Bai2_Lab_Equipment_Checkout\obj\Debug\net10.0-windows\ref\Bai2_Lab_Equipment_Checkout.dll
+D:\LT .Net\Bai2_Lab_Equipment_Checkout\Bai2_Lab_Equipment_Checkout\obj\Debug\net10.0-windows\Bai2_Lab.74FCF7FD.Up2Date

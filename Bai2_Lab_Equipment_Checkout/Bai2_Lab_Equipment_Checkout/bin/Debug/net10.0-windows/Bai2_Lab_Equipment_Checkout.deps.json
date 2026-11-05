@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Bai2_Lab_Equipment_Checkout/1.0.0": {
+        "runtime": {
+          "Bai2_Lab_Equipment_Checkout.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai2_Lab_Equipment_Checkout/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
