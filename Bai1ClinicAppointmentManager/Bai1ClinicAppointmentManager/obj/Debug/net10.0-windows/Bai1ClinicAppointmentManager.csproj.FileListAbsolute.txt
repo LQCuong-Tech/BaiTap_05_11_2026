@@ -1,0 +1,17 @@
+D:\LT .Net\Bai1ClinicAppointmentManager\Bai1ClinicAppointmentManager\bin\Debug\net10.0-windows\Bai1ClinicAppointmentManager.exe
+D:\LT .Net\Bai1ClinicAppointmentManager\Bai1ClinicAppointmentManager\bin\Debug\net10.0-windows\Bai1ClinicAppointmentManager.deps.json
+D:\LT .Net\Bai1ClinicAppointmentManager\Bai1ClinicAppointmentManager\bin\Debug\net10.0-windows\Bai1ClinicAppointmentManager.runtimeconfig.json
+D:\LT .Net\Bai1ClinicAppointmentManager\Bai1ClinicAppointmentManager\bin\Debug\net10.0-windows\Bai1ClinicAppointmentManager.dll
+D:\LT .Net\Bai1ClinicAppointmentManager\Bai1ClinicAppointmentManager\bin\Debug\net10.0-windows\Bai1ClinicAppointmentManager.pdb
+D:\LT .Net\Bai1ClinicAppointmentManager\Bai1ClinicAppointmentManager\obj\Debug\net10.0-windows\Bai1ClinicAppointmentManager.Appointment.resources
+D:\LT .Net\Bai1ClinicAppointmentManager\Bai1ClinicAppointmentManager\obj\Debug\net10.0-windows\Bai1ClinicAppointmentManager.csproj.GenerateResource.cache
+D:\LT .Net\Bai1ClinicAppointmentManager\Bai1ClinicAppointmentManager\obj\Debug\net10.0-windows\Bai1ClinicAppointmentManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT .Net\Bai1ClinicAppointmentManager\Bai1ClinicAppointmentManager\obj\Debug\net10.0-windows\Bai1ClinicAppointmentManager.AssemblyInfoInputs.cache
+D:\LT .Net\Bai1ClinicAppointmentManager\Bai1ClinicAppointmentManager\obj\Debug\net10.0-windows\Bai1ClinicAppointmentManager.AssemblyInfo.cs
+D:\LT .Net\Bai1ClinicAppointmentManager\Bai1ClinicAppointmentManager\obj\Debug\net10.0-windows\Bai1ClinicAppointmentManager.csproj.CoreCompileInputs.cache
+D:\LT .Net\Bai1ClinicAppointmentManager\Bai1ClinicAppointmentManager\obj\Debug\net10.0-windows\Bai1ClinicAppointmentManager.dll
+D:\LT .Net\Bai1ClinicAppointmentManager\Bai1ClinicAppointmentManager\obj\Debug\net10.0-windows\refint\Bai1ClinicAppointmentManager.dll
+D:\LT .Net\Bai1ClinicAppointmentManager\Bai1ClinicAppointmentManager\obj\Debug\net10.0-windows\Bai1ClinicAppointmentManager.pdb
+D:\LT .Net\Bai1ClinicAppointmentManager\Bai1ClinicAppointmentManager\obj\Debug\net10.0-windows\Bai1ClinicAppointmentManager.genruntimeconfig.cache
+D:\LT .Net\Bai1ClinicAppointmentManager\Bai1ClinicAppointmentManager\obj\Debug\net10.0-windows\ref\Bai1ClinicAppointmentManager.dll
+D:\LT .Net\Bai1ClinicAppointmentManager\Bai1ClinicAppointmentManager\obj\Debug\net10.0-windows\Bai1Clin.F0548534.Up2Date
